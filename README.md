@@ -1,4 +1,4 @@
-# Timeleaf · 那年此刻
+# Timeleaf · 那年今日
 
 Photo memories, collages, video stories and Live Photos for iPhone and iPad.
 
@@ -37,7 +37,7 @@ Available in English, Simplified Chinese, German, French and Spanish. Requires i
 
 ## 中文支持
 
-那年此刻帮你回看往年同日的照片与视频，也支持从相册自由选材，制作拼图、视频故事和实况照片。
+那年今日帮你回看往年同日的照片与视频，也支持从相册自由选材，制作拼图、视频故事和实况照片。
 
 遇到问题时，请[提交支持反馈](https://github.com/houzhenqing/timeleaf-support/issues/new)，说明系统版本、App 版本、操作步骤和遇到的问题。反馈页面公开可见，请勿上传私人照片、地址、账号信息等敏感内容。
 

@@ -1,4 +1,4 @@
-# Timeleaf Privacy Policy / 那年此刻隐私政策
+# Timeleaf Privacy Policy / 那年今日隐私政策
 
 Effective date: November 6, 2026. Publisher: Zhenqing Hou.
 
@@ -38,7 +38,7 @@ This policy will be updated if the app's data practices change. The effective da
 
 生效日期：2026 年 11 月 6 日。开发者：Zhenqing Hou。
 
-**数据收集**：那年此刻无需账号，不含广告、追踪 SDK、统计 SDK 或开发者运营的照片上传服务。开发者不会通过 App 收集你的照片、视频、照片坐标、通讯录、标识符或使用事件。回忆发现和编辑在设备本机完成。
+**数据收集**：那年今日无需账号，不含广告、追踪 SDK、统计 SDK 或开发者运营的照片上传服务。开发者不会通过 App 收集你的照片、视频、照片坐标、通讯录、标识符或使用事件。回忆发现和编辑在设备本机完成。
 
 **照片与权限**：由你决定是否授权读取图库。有限授权仅访问你允许的素材；也可通过系统选择器手动选材，无需读取整个图库。App 使用选中素材的画面、拍摄日期和已有照片坐标进行本地回忆整理与编辑，不申请、不使用设备当前位置。
 
